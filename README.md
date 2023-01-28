@@ -1,1 +1,1 @@
-# comapany_website
+# company-website
